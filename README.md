@@ -7,8 +7,9 @@ I am a versatile developer who loves trying new things and learning from every p
 **💻 C++:** algorithms, data structures, simple neural networks, software engineering with UML  
 **🧠 Python:** learning exercises, clicker game, Django web project  
 **🎮 Java:** game projects, Minecraft mods  
-**🌐 Web:** HTML, CSS, JavaScript, mini-sites  
-**🐧 Systems & DBs:** Linux (Arch), Docker, PostgreSQL, MongoDB, Oracle SQL  
+**🌐 Web:** HTML, CSS, JavaScript, mini-sites
+**🌀 Clojure:** functional programming experiments
+**🐧 Systems & DBs:** Linux (Arch), Docker, PostgreSQL, MongoDB, Oracle SQL
 
 ## 🎯 Purpose
 

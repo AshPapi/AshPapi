@@ -2,8 +2,6 @@
 
 I am a versatile developer who loves trying new things and learning from every project. Here I keep my experiments, learning projects, and small achievements, a place to track my growth.  
 
-Sometimes a 🎮 Minecraft mod in Java, sometimes a 🐍 Python clicker, sometimes an experiment with 🖥️ C++ neural networks — every project teaches me something new.
-
 ## 🛠️ Skills & Projects
 
 **💻 C++:** algorithms, data structures, simple neural networks, software engineering with UML  
